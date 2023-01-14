@@ -22,7 +22,14 @@
 ---
 ###:man_technologist: About me :
 
-I'm a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave"> located in Canada
+I'm a full stack developer located in Canada :canada:
+
+- 🔭 I'm an Industrial Engineer 🏭 and Musician 🎹 
+- 🌱 I’m currently exploring data-science
+- 💬 Ask me about maths, physics and film-music 🎵
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-andres-henao-caviedes)
+- ⚡ Fun fact: ...
+
 <!--
 **fabio-writes-code/fabio-writes-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
