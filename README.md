@@ -11,8 +11,8 @@
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="banner" align="center" width="600" height="300">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" alt="laptop banner">
+<div id="banner" align="center">
+  <img src=https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif alt="laptop banner" width="600" height="300">
 </div>
 
 <h1>
@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 ---
-###:man_technologist: Abour me :
+###:man_technologist: About me :
 
 I'm a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="wave"> located in Canada
 <!--
