@@ -77,7 +77,8 @@ I'm a full stack developer located in :canada: 🍁
 ---
 
 ### :fire: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-writes-code&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-writes-code](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabio-writes-code&theme=dark&background=000000)](https://git.io/streak-stats)
 
