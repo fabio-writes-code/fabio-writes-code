@@ -12,22 +12,24 @@
 </div>
 
 <div id="banner" align="center">
-  <img src=https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif alt="laptop banner" width="600" height="300">
+  <img src=https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif alt="laptop banner" width="600" height="600">
 </div>
 
 <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 ---
+
 ###:man_technologist: About me :
 
-I'm a full stack developer located in Canada :canada:
+I'm a full stack developer located in :canada: 🍁
 
 - 🔭 I'm an Industrial Engineer 🏭 and Musician 🎹 
 - 🌱 I’m currently exploring data-science
 - 💬 Ask me about maths, physics and film-music 🎵
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-andres-henao-caviedes)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/fabio-andres-henao-caviedes)
 - ⚡ Fun fact: ...
 
 <!--
